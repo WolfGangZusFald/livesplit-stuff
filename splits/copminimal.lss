@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>S.T.A.L.K.E.R.: Call of Pripyat</GameName>
+  <CategoryName>ану прОцент</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>22</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="07/17/2020 19:30:52" isStartedSynced="True" ended="07/17/2020 19:31:50" isEndedSynced="True" />
+    <Attempt id="2" started="07/17/2020 19:31:57" isStartedSynced="True" ended="07/17/2020 19:33:06" isEndedSynced="True" />
+    <Attempt id="3" started="07/17/2020 19:33:14" isStartedSynced="True" ended="07/17/2020 19:34:15" isEndedSynced="True" />
+    <Attempt id="4" started="07/17/2020 19:56:11" isStartedSynced="True" ended="07/17/2020 19:57:16" isEndedSynced="True" />
+    <Attempt id="5" started="07/24/2020 18:53:50" isStartedSynced="True" ended="07/24/2020 18:54:09" isEndedSynced="True" />
+    <Attempt id="6" started="08/04/2020 19:29:04" isStartedSynced="True" ended="08/04/2020 19:30:41" isEndedSynced="True" />
+    <Attempt id="7" started="08/04/2020 19:30:49" isStartedSynced="True" ended="08/04/2020 19:31:48" isEndedSynced="True" />
+    <Attempt id="8" started="08/04/2020 19:31:56" isStartedSynced="True" ended="08/04/2020 19:33:21" isEndedSynced="True" />
+    <Attempt id="9" started="08/04/2020 19:33:29" isStartedSynced="True" ended="08/04/2020 19:34:29" isEndedSynced="True" />
+    <Attempt id="10" started="08/04/2020 19:34:37" isStartedSynced="True" ended="08/04/2020 19:35:46" isEndedSynced="True" />
+    <Attempt id="11" started="08/04/2020 19:35:54" isStartedSynced="True" ended="08/04/2020 19:36:52" isEndedSynced="True" />
+    <Attempt id="12" started="08/04/2020 19:37:00" isStartedSynced="True" ended="08/04/2020 19:38:07" isEndedSynced="True" />
+    <Attempt id="13" started="08/04/2020 19:38:15" isStartedSynced="True" ended="08/04/2020 20:03:30" isEndedSynced="True">
+      <RealTime>00:25:15.2970000</RealTime>
+      <GameTime>00:15:16.8110000</GameTime>
+    </Attempt>
+    <Attempt id="14" started="08/22/2020 18:46:48" isStartedSynced="True" ended="08/22/2020 18:47:45" isEndedSynced="True" />
+    <Attempt id="15" started="08/22/2020 18:47:53" isStartedSynced="True" ended="08/22/2020 18:48:51" isEndedSynced="True" />
+    <Attempt id="16" started="08/22/2020 18:48:59" isStartedSynced="True" ended="08/22/2020 18:50:09" isEndedSynced="True" />
+    <Attempt id="17" started="08/22/2020 18:50:16" isStartedSynced="True" ended="08/22/2020 18:51:13" isEndedSynced="True" />
+    <Attempt id="18" started="08/22/2020 18:51:21" isStartedSynced="True" ended="08/22/2020 18:52:18" isEndedSynced="True" />
+    <Attempt id="19" started="08/22/2020 18:52:26" isStartedSynced="True" ended="08/22/2020 18:53:48" isEndedSynced="True" />
+    <Attempt id="20" started="08/22/2020 18:53:55" isStartedSynced="True" ended="08/22/2020 18:54:52" isEndedSynced="True" />
+    <Attempt id="21" started="08/22/2020 18:54:59" isStartedSynced="True" ended="08/22/2020 19:17:36" isEndedSynced="True">
+      <RealTime>00:22:36.7410000</RealTime>
+      <GameTime>00:19:37.1520000</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>GOTO</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:30.2230000</RealTime>
+          <GameTime>00:01:50.2700000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:30.2230000</RealTime>
+        <GameTime>00:01:50.2700000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:02:30.2230000</RealTime>
+          <GameTime>00:01:50.2700000</GameTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:02:31.2970000</RealTime>
+          <GameTime>00:02:10.6010000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>X8</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:03.9170000</RealTime>
+          <GameTime>00:07:12.6540000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:33.6940000</RealTime>
+        <GameTime>00:05:22.3840000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:07:33.6940000</RealTime>
+          <GameTime>00:05:22.3840000</GameTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:07:39.6810000</RealTime>
+          <GameTime>00:06:16.5370000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>STR</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:41.1840000</RealTime>
+          <GameTime>00:11:34.8280000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:02.7900000</RealTime>
+        <GameTime>00:04:22.1740000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:06:37.2670000</RealTime>
+          <GameTime>00:04:22.1740000</GameTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:06:02.7900000</RealTime>
+          <GameTime>00:05:32.5420000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>END?</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:15.2970000</RealTime>
+          <GameTime>00:15:16.8110000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:22.9730000</RealTime>
+        <GameTime>00:03:41.9830000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:08:34.1130000</RealTime>
+          <GameTime>00:03:41.9830000</GameTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:06:22.9730000</RealTime>
+          <GameTime>00:05:37.4720000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Users\Chesi\Desktop\LiveSplit_1.7.6\Components\stalkercallofpripyatloadremoval.asl</ScriptPath>
+    <CustomSettings />
+  </AutoSplitterSettings>
+</Run>
